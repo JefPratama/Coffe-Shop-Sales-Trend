@@ -14,3 +14,8 @@ Recommended Analysis
 
 Source Data : Kaggle https://www.kaggle.com/code/serhiimyroniuk/coffee-shop-sales
 Software : Power BI
+
+![image](https://github.com/JefPratama/Coffe-Shop-Sales-Trend/assets/153343134/0c377f69-7ca7-4216-a9c5-f318520c6892)
+
+![image](https://github.com/JefPratama/Coffe-Shop-Sales-Trend/assets/153343134/d4e994fb-6988-43ab-9fc3-6cefb15e387b)
+
